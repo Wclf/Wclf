@@ -1,4 +1,4 @@
-![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif){:width="1280"}
+[![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif)](https://github.com/Wclf){:width="600" height="300"}
 
 <h1 align="center">Hi 👋, I'm Thang Bui</h1>
 <h3 align="center">A intern web and game developer from VietNam</h3>
